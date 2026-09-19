@@ -38,3 +38,16 @@ Install the dependencies with `pip install -r requirements.txt`, then run the no
 
 ## Dataset
 Superstore Sales dataset from Kaggle.
+
+## Power BI Dashboard
+An interactive two-page dashboard built on the cleaned dataset.
+
+**Overview:** KPI cards, filters for year, category and region, monthly sales trends, and sales by region and category.
+
+![Overview](dashboard/overview.png)
+
+**Details:** top 10 customers (about 6.8% of total sales) and sales by sub-category.
+
+![Details](dashboard/details.png)
+
+The file is in `dashboard/superstore_dashboard.pbix` (open with Power BI Desktop).
